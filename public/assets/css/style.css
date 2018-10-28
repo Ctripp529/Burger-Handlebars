@@ -1,0 +1,28 @@
+/* general font and background color */
+body {
+    background-color: rgba(218, 165, 32, 0.865);
+    font-family: 'Varela Round', sans-serif;
+}
+
+/* burger columns styling */
+h3 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 2rem;
+}
+
+/* styling for placeholder */
+::-webkit-input-placeholder {
+    color: black;
+}
+
+::-moz-placeholder {
+    color: back;
+}
+
+::-ms-placeholder {
+    color: black;
+}
+
+::placeholder {
+    color: black;
+}
